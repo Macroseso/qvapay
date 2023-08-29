@@ -1,0 +1,29 @@
+
+
+{
+    	"name": "macroseso/qvapay",
+	"description": "Pasarela de pago Qvapay",
+	"license": "MIT",
+    "version": "1.0.0",
+    "keywords": [
+        "enzona",
+        "payment",
+        "php",
+        "sdk",
+        "api"
+    ],
+    "homepage": "https://github.com/Macroseso/qvapay",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Leodan Jesus Rodriguez MArtinez",
+            "homepage": "https://github.com/Macroseso/qvapay"
+        }
+    ],
+    "require": {
+        "php": ">=7"
+    },
+    "autoload": {
+        "psr-4": { "macroseso\\qvapay\\" : "lib/" }
+    }
+}
